@@ -1,0 +1,12 @@
+{
+  "name": "mirror-me-public-showcase",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test components/emotion-recognition/tests/*.test.mjs components/gesture-recognition/tests/*.test.mjs components/multimodal-fusion/tests/*.test.mjs"
+  }
+}
