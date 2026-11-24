@@ -1,5 +1,7 @@
 # MIRROR ME — публичная витрина проекта
 
+[![Tests](https://github.com/JpegPolzovatelya/mirror-me-showcase/actions/workflows/tests.yml/badge.svg)](https://github.com/JpegPolzovatelya/mirror-me-showcase/actions/workflows/tests.yml)
+
 Этот репозиторий содержит ограниченный набор исходного кода проекта MIRROR ME,
 достаточный для технического ознакомления с прототипом. Полная платформа,
 инфраструктура и рабочие данные намеренно не публикуются.
